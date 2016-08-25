@@ -1,1 +1,1 @@
-include ':app', ':verticallinearlayout'
+include ':app', ':verticallinearlayout', ':flowlayout'

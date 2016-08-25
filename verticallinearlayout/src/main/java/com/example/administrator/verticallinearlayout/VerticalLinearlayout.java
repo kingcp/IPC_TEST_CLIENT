@@ -69,6 +69,7 @@ public class VerticalLinearlayout extends ViewGroup {
                 }
             }
         }
+        Log.e(TAG, "onLayout: getMeasuredHeight = " + getMeasuredHeight() + " , getHeight = " + getHeight() );
     }
 
     @Override
