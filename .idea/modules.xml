@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DawerlayoutTest/DawerlayoutTest.iml" filepath="$PROJECT_DIR$/DawerlayoutTest/DawerlayoutTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/IPC_TEST_CLIENT.iml" filepath="$PROJECT_DIR$/IPC_TEST_CLIENT.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/flowlayout/flowlayout.iml" filepath="$PROJECT_DIR$/flowlayout/flowlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guaguaka/guaguaka.iml" filepath="$PROJECT_DIR$/guaguaka/guaguaka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinnedheaderexpandablelistview/pinnedheaderexpandablelistview.iml" filepath="$PROJECT_DIR$/pinnedheaderexpandablelistview/pinnedheaderexpandablelistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/verticallinearlayout/verticallinearlayout.iml" filepath="$PROJECT_DIR$/verticallinearlayout/verticallinearlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewleaner/viewleaner.iml" filepath="$PROJECT_DIR$/viewleaner/viewleaner.iml" />
     </modules>
   </component>
 </project>

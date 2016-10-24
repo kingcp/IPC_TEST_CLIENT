@@ -9,9 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DawerlayoutTest" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/flowlayout" />
+            <option value="$PROJECT_DIR$/guaguaka" />
+            <option value="$PROJECT_DIR$/pinnedheaderexpandablelistview" />
             <option value="$PROJECT_DIR$/verticallinearlayout" />
+            <option value="$PROJECT_DIR$/viewleaner" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,1 +1,1 @@
-include ':app', ':verticallinearlayout', ':flowlayout'
+include ':app', ':verticallinearlayout', ':flowlayout', ':pinnedheaderexpandablelistview', ':viewleaner', ':guaguaka', ':DawerlayoutTest'
